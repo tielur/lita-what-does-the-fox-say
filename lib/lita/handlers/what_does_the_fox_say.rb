@@ -5,19 +5,19 @@ module Lita
         "what does the fox say" => "Lita tells you what the fox says"}
 
       def what_the_fox_says response
-        response.reply ":dog: goes woof"
-        response.reply ":cat2: goes meow" 
-        response.reply ":bird: goes tweet"
-        response.reply "and the :mouse2: goes squeek"
-        response.reply ":cow: goes moo"
-        response.reply ":frog: goes croak"
-        response.reply "and the :elephant: goes toot"
-        response.reply ":baby_chick: says quack"
-        response.reply "and :fish: goes blub"
-        response.reply "and the :dolphin: goes ow ow ow"
-        response.reply "But there's one sound"
-        response.reply "That no one knows..."
-        response.reply "What does the :wolf: say!?"
+        response.reply ":dog: goes woof",
+                       ":cat2: goes meow",
+                       ":bird: goes tweet",
+                       "and the :mouse2: goes squeek",
+                       ":cow: goes moo",
+                       ":frog: goes croak",
+                       "and the :elephant: goes toot",
+                       ":baby_chick: says quack",
+                       "and :fish: goes blub",
+                       "and the :dolphin: goes ow ow ow",
+                       "But there's one sound",
+                       "That no one knows...",
+                       "What does the :wolf: say!?"
 
       end
     end
