@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-what-does-the-fox-say"
-  spec.version       = "0.0.2"
+  spec.version       = "0.0.3"
   spec.authors       = ["Tyler Clemens"]
   spec.email         = ["tyler.r.clemens@gmail.com"]
   spec.description   = %q{Lita tells you what the fox says!}
