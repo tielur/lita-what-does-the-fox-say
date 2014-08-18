@@ -1,11 +1,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "lita-what-does-the-fox-say"
-  spec.version       = "0.0.1"
+  spec.version       = "0.0.2"
   spec.authors       = ["Tyler Clemens"]
   spec.email         = ["tyler.r.clemens@gmail.com"]
   spec.description   = %q{Lita tells you what the fox says!}
-  spec.summary       = %q{TODO: Add a summary}
-  spec.homepage      = "TODO: Add a homepage"
+  spec.summary       = %q{Lita will respond with what the fox says when asked.}
+  spec.homepage      = "https://github.com/tielur/lita-what-does-the-fox-say"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
