@@ -14,7 +14,7 @@ gem "lita-what-does-the-fox-say"
 
 When Lita hear's "What does the fox say" she will reply.
 
-[Reference](http://en.wikipedia.org/wiki/The_Fox_(What_Does_the_Fox_Say%3F)
+[Reference](http://en.wikipedia.org/wiki/The_Fox_(What_Does_the_Fox_Say%3F))
 
 
 
